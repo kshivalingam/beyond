@@ -16,4 +16,5 @@ int main(){
     cout<<"MORE commands"<<endl;
     cout<<"git branch for no. branches user currently have"<<endl;
     cout<<"git checkout -d branch_name to check that particular branch"<<endl;
+    cout<<"git branch -D branch_name to delete that file"<<endl;
 }
