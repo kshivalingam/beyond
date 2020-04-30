@@ -13,4 +13,7 @@ int main(){
     cout<<"git pull to access from github platform"<<endl;
     cout<<"DONE"<<endl;
     cout<<"CHANGES ARE ADDED TO THE FEATURE BRANCH TOOO..."<<endl;
+    cout<<"MORE commands"<<endl;
+    cout<<"git branch for no. branches user currently have"<<endl;
+    cout<<"git checkout -d branch_name to check that particular branch"<<endl;
 }
