@@ -18,4 +18,5 @@ int main(){
     cout<<"git checkout -d branch_name to check that particular branch"<<endl;
     cout<<"git branch -D branch_name to delete that file"<<endl;
     cout<<"create upstream for new"<<endl;
+    cout<<"git push --set-upstream origin new"<<endl;
 }
