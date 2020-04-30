@@ -14,5 +14,5 @@ int main(){
     cout<<"DONE"<<endl;
     cout<<"MORE commands"<<endl;
     cout<<"git branch for no. branches user currently have"<<endl;
-    cout<<"git checkout -d branch_name to create new file"<<endl;
+    cout<<"git checkout -d branch_name to check that particular branch"<<endl;
 }
