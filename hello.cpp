@@ -12,4 +12,7 @@ int main(){
     cout<<"git push to push the changes into github server"<<endl;
     cout<<"git pull to access from github platform"<<endl;
     cout<<"DONE"<<endl;
+    cout<<"MORE commands"<<endl;
+    cout<<"git branch for no. branches user currently have"<<endl;
+    cout<<"git checkout -d branch_name to create new file"<<endl;
 }
