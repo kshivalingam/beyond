@@ -9,5 +9,6 @@ int main(){
     cout<<"git clone https llink"<<endl;
     cout<<"git add"<<endl;
     cout<<" git commit -m "" "<<endl;
-    cout<<"git push"<<endl;
+    cout<<"git push to push the changes into github server"<<endl;
+    cout<<"git pull to access from github platform"<<endl;
 }
