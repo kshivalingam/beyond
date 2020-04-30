@@ -11,4 +11,5 @@ int main(){
     cout<<"MErge conflicts are resolved"<<endl;
     cout<<"git push to push the changes into github server"<<endl;
     cout<<"git pull to access from github platform"<<endl;
+    cout<<"DONE"<<endl;
 }
