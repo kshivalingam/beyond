@@ -8,7 +8,7 @@ int main(){
     cout<<"COMMANDS"<<endl;
     cout<<"git clone https llink"<<endl;
     cout<<"git add"<<endl;
-    cout<<"MErge conflicts are resolved"<<endl;
+    cout<<"MErge conflicts are resolved DONE "<<endl;
     cout<<"git push to push the changes into github server"<<endl;
     cout<<"git pull to access from github platform"<<endl;
     cout<<"DONE"<<endl;
